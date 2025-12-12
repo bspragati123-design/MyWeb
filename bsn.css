@@ -1,0 +1,30 @@
+.a{
+    height: 600px;
+    width: 350px;
+    background-color: aqua;
+    padding:5px;
+    border:5px;
+    margin:5px;
+    border:2px solid black;
+    text-align: center;
+    box-shadow:0px 0px 50px yellow;     /*x axis ,y axis ,   ,color*/
+    border-radius:20px;
+
+}
+img{
+    height: 250px;
+
+    width:250px;
+    border-radius:50%;
+    
+}
+body{
+   display:flex;
+   justify-content: center;
+   align-items: center;
+}
+h1{
+    background-color: white;
+}
+
+
